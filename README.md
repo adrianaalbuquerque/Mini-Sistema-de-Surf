@@ -1,5 +1,2 @@
-# mini-sistema-de-surf
-
-Dupla: 
-- Adriana Albuquerque
-- Diego Figueiredo
+Introduzindo Classes e Objetos usando Python
+Mini Sistema de Campeonato de Surf
